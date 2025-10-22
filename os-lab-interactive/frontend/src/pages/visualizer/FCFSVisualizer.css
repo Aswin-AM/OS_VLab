@@ -1,0 +1,48 @@
+.fcfs-visualizer-container {
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.input-form {
+  margin-bottom: 20px;
+}
+
+.input-form input {
+  margin-right: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+.gantt-chart {
+  display: flex;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.gantt-bar {
+  background-color: #3498db;
+  color: white;
+  text-align: center;
+  margin-right: 5px;
+  position: relative;
+}
+
+.gantt-time {
+  position: absolute;
+  bottom: -20px;
+  right: 0;
+  color: black;
+}

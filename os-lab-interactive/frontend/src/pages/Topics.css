@@ -1,0 +1,12 @@
+.topics-container {
+  padding: 20px;
+}
+
+.topics-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.topics-container li {
+  margin-bottom: 10px;
+}

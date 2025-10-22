@@ -1,0 +1,11 @@
+{
+  "diskSize": 100,
+  "startDirection": "increasing",
+  "requests": [
+    { "id": 1, "arrivalTime": 0, "track": 50 },
+    { "id": 2, "arrivalTime": 1, "track": 10 },
+    { "id": 3, "arrivalTime": 2, "track": 30 },
+    { "id": 4, "arrivalTime": 3, "track": 70 },
+    { "id": 5, "arrivalTime": 4, "track": 15 }
+  ]
+}
